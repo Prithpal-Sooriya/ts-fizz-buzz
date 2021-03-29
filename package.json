@@ -1,0 +1,23 @@
+{
+  "name": "ts-fizz-buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prithpal-Sooriya/ts-fizz-buzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prithpal-Sooriya/ts-fizz-buzz/issues"
+  },
+  "homepage": "https://github.com/Prithpal-Sooriya/ts-fizz-buzz#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
